@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MyListing Directory Pro - Technical Documentation Suite",
+  "description": "Plataforma de diretório completa com arquitetura React/Wix, integração Gemini AI e dashboard analítico.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
